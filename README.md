@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm DHEERA</h1>
 <h3 align="center">Im 🌐 Passionate about Cybersecurity | 📱 Mobile App Security Enthusiast | 💼 Solving Cyber Threats.</h3>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/0*FGD6BUzzZs1VJLuY.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsdheera2k1&label=Profile%20views&color=0e75b6&style=flat" alt="itsdheera2k1" /> </p>
 
